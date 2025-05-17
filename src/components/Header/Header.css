@@ -80,9 +80,22 @@
   .nav__icon {
     font-size: 1.2rem;
   }
+  .nav__close {
+    position: absolute;
+    bottom: 0.5rem;
+    right: 1.3rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: var(--title-color);
+  }
+
   .nav__icon,
   .nav__close,
   .nav__toggle {
     display: block;
   }
+}
+
+/* For small devices */
+@media screen and (max-width: 350px) {
 }
