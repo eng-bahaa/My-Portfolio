@@ -1,0 +1,10 @@
+.home {
+  background-color: red;
+}
+
+.home h1 {
+  height: 1000px;
+  width: 1000px;
+  color: yellow;
+  font-size: larger;
+}
