@@ -4,14 +4,29 @@ import "./home.css";
 const Social = () => {
   return (
     <div className="home__social">
-      <a href="#home" className="home__social-icon" target="_blank">
-        <i class="uil uil-instagram"></i>instagram
+      <a
+        href="https://instagram.com"
+        className="home__social-icon"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <i className="uil uil-instagram"></i>
       </a>
-      <a href="#home" className="home__social-icon" target="_blank">
-        <i class="uil uil-dribbble"></i>
+      <a
+        href="https://dribbble.com"
+        className="home__social-icon"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <i className="uil uil-dribbble"></i>
       </a>
-      <a href="#home" className="home__social-icon" target="_blank">
-        <i class="uil uil-github-alt"></i>
+      <a
+        href="https://github.com/eng-bahaa"
+        className="home__social-icon"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <i className="uil uil-github-alt"></i>
       </a>
     </div>
   );
