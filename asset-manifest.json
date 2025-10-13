@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.8de4a482.css",
-    "main.js": "/static/js/main.ee6acb07.js",
+    "main.css": "/static/css/main.6b05c34e.css",
+    "main.js": "/static/js/main.d1cdf2fb.js",
     "static/media/Bahaa_cv.pdf": "/static/media/Bahaa_cv.dece043f5b7c746361d4.pdf",
     "static/media/profile.png": "/static/media/profile.e664adb37658b5041fbe.png",
     "static/media/about.png": "/static/media/about.20e5500bec73ec92839f.png",
     "index.html": "/index.html",
-    "main.8de4a482.css.map": "/static/css/main.8de4a482.css.map",
-    "main.ee6acb07.js.map": "/static/js/main.ee6acb07.js.map"
+    "main.6b05c34e.css.map": "/static/css/main.6b05c34e.css.map",
+    "main.d1cdf2fb.js.map": "/static/js/main.d1cdf2fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.8de4a482.css",
-    "static/js/main.ee6acb07.js"
+    "static/css/main.6b05c34e.css",
+    "static/js/main.d1cdf2fb.js"
   ]
 }
