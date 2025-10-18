@@ -21,8 +21,9 @@ const Services = () => {
               View More
               <i className="uil uil-arrow-right services__button-icon"></i>
             </span>
+
             <div className="services__modal">
-              <div className="services__content-icon">
+              <div className="services__modal-content">
                 <i className="uil uil-items services__modal-close"></i>
                 <h3 className="services__modal-title">Product Designer</h3>
                 <p className="services__modal-description">
@@ -75,8 +76,9 @@ const Services = () => {
               View More
               <i className="uil uil-arrow-right services__button-icon"></i>
             </span>
+
             <div className="services__modal">
-              <div className="services__content-icon">
+              <div className="services__modal-content">
                 <i className="uil uil-items services__modal-close"></i>
                 <h3 className="services__modal-title">UI/UX Designer</h3>
                 <p className="services__modal-description">
@@ -130,7 +132,7 @@ const Services = () => {
               <i className="uil uil-arrow-right services__button-icon"></i>
             </span>
             <div className="services__modal">
-              <div className="services__content-icon">
+              <div className="services__modal-content">
                 <i className="uil uil-items services__modal-close"></i>
                 <h3 className="services__modal-title">Visual Designer</h3>
                 <p className="services__modal-description">
