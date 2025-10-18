@@ -57,3 +57,11 @@
   visibility: visible;
   transition: 0.3s;
 }
+
+.services__modal-content {
+  background-color: var(--container-color);
+  width: 500px;
+  position: relative;
+  padding: 4.5rem 2.5rem 2.5rem;
+  border-radius: 1.5rem;
+}
