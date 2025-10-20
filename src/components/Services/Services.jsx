@@ -6,9 +6,7 @@ const Services = () => {
     <section className="services section" id="services">
       <h2 className="section__title">Services</h2>
       <span className="section__subtitle">What I offer</span>
-      <div className="services__container container grid"></div>
 
-      {/*  
       <div className="services__container container grid">
         <div className="services__content">
           <div>
@@ -17,15 +15,13 @@ const Services = () => {
               Product <br /> Designer
             </h3>
           </div>
-
           <span className="services__button">
             View More
             <i className="uil uil-arrow-right services__button-icon"></i>
           </span>
-
           <div className="services__modal">
             <div className="services__modal-content">
-              <i className="uil uil-items services__modal-close"></i>
+              <i className="uil uil-times services__modal-close"></i>
               <h3 className="services__modal-title">Product Designer</h3>
               <p className="services__modal-description">
                 Service with more than 3 years of experience. Providing quality
@@ -64,6 +60,7 @@ const Services = () => {
             </div>
           </div>
         </div>
+
         <div className="services__content">
           <div>
             <i className="uil uil-arrow services__icon"></i>
@@ -79,7 +76,7 @@ const Services = () => {
 
           <div className="services__modal">
             <div className="services__modal-content">
-              <i className="uil uil-items services__modal-close"></i>
+              <i className="uil uil-times services__modal-close"></i>
               <h3 className="services__modal-title">UI/UX Designer</h3>
               <p className="services__modal-description">
                 Service with more than 3 years of experience. Providing quality
@@ -133,7 +130,7 @@ const Services = () => {
           </span>
           <div className="services__modal">
             <div className="services__modal-content">
-              <i className="uil uil-items services__modal-close"></i>
+              <i className="uil uil-times services__modal-close"></i>
               <h3 className="services__modal-title">Visual Designer</h3>
               <p className="services__modal-description">
                 Service with more than 3 years of experience. Providing quality
@@ -173,7 +170,6 @@ const Services = () => {
           </div>
         </div>
       </div>
-      */}
     </section>
   );
 };
