@@ -21,7 +21,7 @@ const Qualification = () => {
         </div>
 
         <div className="qualification__sections">
-          <div className="qualification__content">
+          <div className="qualification__content qualification__content-active">
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Web Design</h3>
@@ -52,7 +52,7 @@ const Qualification = () => {
                   Spain - Institute
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i> 2021 - 2025
+                  <i className="uil uil-calender-alt"></i> 2020 - 2021
                 </div>
               </div>
             </div>
@@ -64,7 +64,7 @@ const Qualification = () => {
                   Spain - Institute
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i> 2021 - 2025
+                  <i className="uil uil-calender-alt"></i> 2018 - 2020
                 </div>
               </div>
 
@@ -87,7 +87,77 @@ const Qualification = () => {
                   Spain - Institute
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i> 2021 - 2023
+                  <i className="uil uil-calender-alt"></i> 2017 - 2018
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="qualification__content">
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">Production Designer</h3>
+                <span className="qualification__subtitle">
+                  Microsoft - Spain
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i> 2021 - present
+                </div>
+              </div>
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
+
+            <div className="qualification__data">
+              <div></div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+
+              <div>
+                <h3 className="qualification__title">UX Designer</h3>
+                <span className="qualification__subtitle">
+                  APle Inc - Spain
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i> 2020 - 2021
+                </div>
+              </div>
+            </div>
+
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">Web Designer</h3>
+                <span className="qualification__subtitle">Figma - Spain</span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i> 2018 - 2020
+                </div>
+              </div>
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
+            {/* To be delete */}
+            <div className="qualification__data">
+              <div></div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+
+              <div>
+                <h3 className="qualification__title">UX Expert</h3>
+                <span className="qualification__subtitle">
+                  Spain - Institute
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i> 2017 - 2018
                 </div>
               </div>
             </div>
