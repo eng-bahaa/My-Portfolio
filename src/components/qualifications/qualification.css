@@ -28,3 +28,9 @@
 .qualification__active {
   color: var(--title-color-dark);
 }
+
+.qualification__section {
+  display: grid;
+  grid-template-columns: 0.75fr;
+  justify-content: center;
+}
