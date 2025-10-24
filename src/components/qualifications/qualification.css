@@ -29,7 +29,7 @@
   color: var(--title-color-dark);
 }
 
-.qualification__section {
+.qualification__sections {
   display: grid;
   grid-template-columns: 0.75fr;
   justify-content: center;

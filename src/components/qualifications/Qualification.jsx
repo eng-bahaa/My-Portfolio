@@ -9,7 +9,7 @@ const Qualification = () => {
 
       <div className="qualification__container container">
         <div className="qualification__tabs">
-          <div className="qualification__button qualification-active button--flex">
+          <div className="qualification__button qualification__active button--flex">
             <i className="uil uil-graduation-cap qualification__icon" />
             Education
           </div>
