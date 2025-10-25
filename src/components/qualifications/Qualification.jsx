@@ -96,7 +96,7 @@ const Qualification = () => {
           <div className="qualification__content">
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Production Designer</h3>
+                <h3 className="qualification__title">Product Designer</h3>
                 <span className="qualification__subtitle">
                   Microsoft - Spain
                 </span>
