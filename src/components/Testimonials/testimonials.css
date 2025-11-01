@@ -1,3 +1,16 @@
 .testimonial__container {
   width: 750px;
 }
+
+.testimonial__header {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.testimonial__item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
