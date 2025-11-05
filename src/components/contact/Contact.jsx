@@ -36,8 +36,8 @@ const Contact = () => {
             </div>
 
             <div className="contact__card">
-              <i className="bx bxl-messenger contact__card-icon">Messenger</i>
-              <h3 className="contact__card-title">Bahaa Ahmed</h3>
+              <i className="bx bxl-messenger contact__card-icon"></i>
+              <h3 className="contact__card-title">Messenger</h3>
               <span className="contact__card-data">user.bahaa123 </span>
               <a href="https://facebook.com" className="contact__button">
                 Write me
