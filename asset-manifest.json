@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.181ff75c.css",
-    "main.js": "/static/js/main.5a15ec67.js",
+    "main.css": "/static/css/main.f729dcdc.css",
+    "main.js": "/static/js/main.1ff115be.js",
     "static/media/Bahaa_cv.pdf": "/static/media/Bahaa_cv.dece043f5b7c746361d4.pdf",
     "static/media/profile.png": "/static/media/profile.e664adb37658b5041fbe.png",
     "static/media/about.png": "/static/media/about.20e5500bec73ec92839f.png",
@@ -9,11 +9,11 @@
     "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/index.html",
-    "main.181ff75c.css.map": "/static/css/main.181ff75c.css.map",
-    "main.5a15ec67.js.map": "/static/js/main.5a15ec67.js.map"
+    "main.f729dcdc.css.map": "/static/css/main.f729dcdc.css.map",
+    "main.1ff115be.js.map": "/static/js/main.1ff115be.js.map"
   },
   "entrypoints": [
-    "static/css/main.181ff75c.css",
-    "static/js/main.5a15ec67.js"
+    "static/css/main.f729dcdc.css",
+    "static/js/main.1ff115be.js"
   ]
 }
