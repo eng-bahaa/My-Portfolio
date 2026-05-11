@@ -9,11 +9,11 @@ function ScrollUp() {
         else
             scrollup.classList.remove("show-scroll");
     })
-  return (
-      <a href="#" className="scrollup">
-          <i className="uil uil-arrow-up scrollup__icon"></i>
-    </a>
-  )
+    return (
+        <button className="scrollup" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
+            <i className="uil uil-arrow-up scrollup__icon"></i>
+        </button>
+    )
 }
 
 export default ScrollUp;
